@@ -1,5 +1,5 @@
 {
-  "name": "Nafees-Nastaliq",
+  "name": "nafees-nastaliq",
   "version": "1.0.0",
   "description": "",
   "main": "fonts.css",
@@ -14,7 +14,7 @@
   "author": "Ubaidullah Ghazi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gaazi/Nafees-Nastaliq.git"
+    "url": "https://github.com/Gaazi/nafees-nastaliq.git"
   },
   "license": "ISC"
 }
